@@ -1,9 +1,11 @@
 const UserList = () => {
-    return (
-        <div>
-            <h1>User List</h1>
-        </div>
-    )
-}
+  return (
+    <div>
+      <h1>User List</h1>
 
-export default UserList
+      <input type="text" />
+    </div>
+  );
+};
+
+export default UserList;
